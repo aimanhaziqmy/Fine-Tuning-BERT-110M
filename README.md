@@ -8,3 +8,4 @@ This repository contains a simple code for fine tuning Bert 110M parameter for t
 - Python 3.11
 - BERT uncased
 - numpy
+- pytorch
