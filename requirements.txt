@@ -1,0 +1,6 @@
+transformers
+datasets
+evaluate
+numpy
+torch
+transformers[torch]
