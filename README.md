@@ -9,3 +9,4 @@ This repository contains a simple code for fine tuning Bert 110M parameter for t
 - BERT uncased
 - numpy
 - pytorch
+- pandas
