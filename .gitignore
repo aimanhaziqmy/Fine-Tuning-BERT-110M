@@ -1,2 +1,3 @@
 .venv
 bert-phishing-classifier_teacher
+model.onnx

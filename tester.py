@@ -2,7 +2,7 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import torch
 
 # model path checkpoint
-model_path = "bert-xxx/checkpoint-2630"
+model_path = "bert-phishing-classifier_teacher/checkpoint-2630"
 
 # load the model
 model = AutoModelForSequenceClassification.from_pretrained(model_path)
