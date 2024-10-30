@@ -9,3 +9,5 @@ This repository contains a simple code for fine tuning Bert 110M parameter for t
 - numpy
 - pytorch
 - pandas
+
+- `This simple example model we use to develop data pipeline with auto labelling from bronze to silver data kinds`
