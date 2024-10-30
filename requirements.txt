@@ -4,3 +4,5 @@ evaluate
 numpy
 torch
 transformers[torch]
+onnx
+onnxruntime
