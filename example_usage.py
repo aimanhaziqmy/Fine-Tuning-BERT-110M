@@ -6,7 +6,7 @@ from transformers import AutoTokenizer
 ort_session = ort.InferenceSession("model.onnx")
 
 # Load the tokenizer
-tokenizer = AutoTokenizer.from_pretrained('bert-phishing-classifier_teacher/checkpoint-2630')
+tokenizer = AutoTokenizer.from_pretrained('bert-xxx/checkpoint-2630')
 
 # Prepare input text
 text = "zalora.com.my"
